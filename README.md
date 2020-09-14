@@ -1,3 +1,14 @@
+# React Context Practice
+Practice app that switches state using context
+
+## Preview
+![“Eng"](https://github.com/matichmike/translate-react-context/blob/master/screenshots/eng.png?raw=true)
+<br/>
+<br/>
+!["Nl"](https://github.com/matichmike/translate-react-context/blob/master/screenshots/nl.png?raw=true)
+<br/>
+<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
